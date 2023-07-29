@@ -4,3 +4,4 @@ echo "That is running in a build step"
 NUM=$(($FIRSTNUMBER + $SECONDNUMBER))
 echo "$NUM"
 echo "Completed"
+echo "Kill them all"
